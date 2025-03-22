@@ -10,7 +10,7 @@ A user-friendly AI chatbot built using **Streamlit** and **HuggingFace's DialoGP
 
 *(GIF demonstrates chatbot interaction)*
 
-Try out the live chatbot here: [**Gon's Simple AI ChatBot**]([https://simple-ai-chatbot.streamlit.app/])
+Try out the live chatbot here: [**Gon's Simple AI ChatBot**](https://simple-ai-chatbot.streamlit.app/)
 
 ---
 
