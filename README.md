@@ -14,6 +14,12 @@ Try out the live chatbot here: [**Gon's Simple AI ChatBot**](https://simple-ai-c
 
 ---
 
+## ⚠️ Caution
+
+This chatbot is currently in its early stages of testing and development. It may occasionally provide inaccurate or inappropriate responses. Use discretion when interacting with it.
+
+---
+
 ## 🚀 **Technologies Used**
 
 - Python
